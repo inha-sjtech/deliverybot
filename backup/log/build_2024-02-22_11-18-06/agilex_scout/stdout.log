@@ -1,0 +1,69 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nvidia/ros2_catkin_ws/build/agilex_scout
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/1_Link.STL
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/2_Link.STL
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/3_Link.STL
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/4_Link.STL
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/mobile_robot_base_link.dae
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/scout_mini_base_link.STL
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/scout_mini_base_link.dae
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/wheel.dae
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/wheel_type1.dae
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/wheel_type2.dae
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/sensors/laser_link.stl
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/costmap_example.launch
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/example_params.yaml
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/scout_robot_lidar.launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/simulate_control_gazebo.launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_v2.gazebo
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_v2.urdf.xacro
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_wheel_type1.xacro
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_wheel_type2.xacro
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/robot.urdf.xacro
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/sensors/os1.urdf
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/rviz/model_display.rviz
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/rviz/real_scout_display.rviz
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/config/ros2_gz_bridge_config.yaml
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/config/tb3_cartographer.lua
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/ament_index/resource_index/package_run_dependencies/agilex_scout
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/ament_index/resource_index/parent_prefix_path/agilex_scout
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/ament_prefix_path.sh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/ament_prefix_path.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/path.sh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/path.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.bash
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.sh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.zsh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/package.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/ament_index/resource_index/packages/agilex_scout
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/cmake/agilex_scoutConfig.cmake
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/cmake/agilex_scoutConfig-version.cmake
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/package.xml

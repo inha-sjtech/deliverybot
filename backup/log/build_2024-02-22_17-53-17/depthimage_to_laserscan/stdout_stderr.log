@@ -1,0 +1,8 @@
+[ 16%] Built target gtest_main
+[ 33%] Built target gtest
+[ 50%] Built target DepthImageToLaserScan
+[ 66%] Built target depthimage_to_laserscan-test
+[ 83%] Built target DepthImageToLaserScanROS
+make[2]: *** [CMakeFiles/depthimage_to_laserscan_node.dir/build.make:213: CMakeFiles/depthimage_to_laserscan_node.dir/depend] Interrupt
+make[1]: *** [CMakeFiles/Makefile2:215: CMakeFiles/depthimage_to_laserscan_node.dir/all] Interrupt
+make: *** [Makefile:141: all] Interrupt

@@ -1,0 +1,1 @@
+/home/nvidia/ros2_catkin_ws/src/deliverybot_bringup/launch/kazim_navigation_launch.py

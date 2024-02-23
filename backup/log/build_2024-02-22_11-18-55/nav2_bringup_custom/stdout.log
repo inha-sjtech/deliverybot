@@ -1,0 +1,22 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/bringup_launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/localization_launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/navigation_launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/rviz_launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/slam_launch.py
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/ament_index/resource_index/package_run_dependencies/nav2_bringup_custom
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/ament_index/resource_index/parent_prefix_path/nav2_bringup_custom
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/ament_prefix_path.sh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/ament_prefix_path.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/path.sh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/path.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.bash
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.sh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.zsh
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/package.dsv
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/ament_index/resource_index/packages/nav2_bringup_custom
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/cmake/nav2_bringup_customConfig.cmake
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/cmake/nav2_bringup_customConfig-version.cmake
+-- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/package.xml

@@ -1,0 +1,1 @@
+Invoking command in '/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/scout_nav2/nav2_bringup -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom

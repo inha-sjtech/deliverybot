@@ -1,0 +1,1 @@
+/home/nvidia/ros2_catkin_ws/src/deliverybot_bringup/launch/sw_robot.launch.py

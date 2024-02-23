@@ -1,0 +1,74 @@
+[6.295s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/scout_nav2/agilex_scout -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/agilex_scout
+[7.835s] -- The C compiler identification is GNU 9.4.0
+[7.836s] -- The CXX compiler identification is GNU 9.4.0
+[7.837s] -- Check for working C compiler: /usr/bin/cc
+[7.838s] -- Check for working C compiler: /usr/bin/cc -- works
+[7.839s] -- Detecting C compiler ABI info
+[7.840s] -- Detecting C compiler ABI info - done
+[7.841s] -- Detecting C compile features
+[7.841s] -- Detecting C compile features - done
+[7.841s] -- Check for working CXX compiler: /usr/bin/c++
+[7.847s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[7.848s] -- Detecting CXX compiler ABI info
+[7.848s] -- Detecting CXX compiler ABI info - done
+[7.848s] -- Detecting CXX compile features
+[7.848s] -- Detecting CXX compile features - done
+[7.848s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[7.848s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[7.848s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[7.848s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[7.849s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[7.849s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.849s] -- Added test 'flake8' to check Python code syntax and style conventions
+[7.849s] -- Added test 'lint_cmake' to check CMake code style
+[7.849s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[7.849s] -- Added test 'xmllint' to check XML markup files
+[7.849s] -- Configuring done
+[7.850s] -- Generating done
+[7.850s] -- Build files have been written to: /home/nvidia/ros2_catkin_ws/build/agilex_scout
+[7.883s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/scout_nav2/agilex_scout -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/agilex_scout
+[7.884s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/agilex_scout -- -j8 -l8
+[7.934s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/agilex_scout -- -j8 -l8
+[8.018s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --install /home/nvidia/ros2_catkin_ws/build/agilex_scout
+[8.045s] -- Install configuration: ""
+[8.047s] -- Execute custom install script
+[8.047s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/1_Link.STL
+[8.059s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/2_Link.STL
+[8.080s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/3_Link.STL
+[8.099s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/4_Link.STL
+[8.122s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/mobile_robot_base_link.dae
+[8.135s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/scout_mini_base_link.STL
+[8.154s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/scout_mini_base_link.dae
+[8.172s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/wheel.dae
+[8.187s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/wheel_type1.dae
+[8.205s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/mobile_robot/wheel_type2.dae
+[8.224s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/meshes/sensors/laser_link.stl
+[8.245s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/costmap_example.launch
+[8.262s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/example_params.yaml
+[8.280s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/scout_robot_lidar.launch.py
+[8.307s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/launch/simulate_control_gazebo.launch.py
+[8.318s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_v2.gazebo
+[8.340s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_v2.urdf.xacro
+[8.356s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_wheel_type1.xacro
+[8.371s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/mobile_robot/scout_wheel_type2.xacro
+[8.390s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/robot.urdf.xacro
+[8.409s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/urdf/sensors/os1.urdf
+[8.425s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/rviz/model_display.rviz
+[8.450s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/rviz/real_scout_display.rviz
+[8.467s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/config/ros2_gz_bridge_config.yaml
+[8.488s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/config/tb3_cartographer.lua
+[8.508s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/ament_index/resource_index/package_run_dependencies/agilex_scout
+[8.526s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/ament_index/resource_index/parent_prefix_path/agilex_scout
+[8.542s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/ament_prefix_path.sh
+[8.562s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/ament_prefix_path.dsv
+[8.593s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/path.sh
+[8.610s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/environment/path.dsv
+[8.632s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.bash
+[8.661s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.sh
+[8.665s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.zsh
+[8.688s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/local_setup.dsv
+[8.709s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/package.dsv
+[8.729s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/ament_index/resource_index/packages/agilex_scout
+[8.745s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/cmake/agilex_scoutConfig.cmake
+[8.771s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/cmake/agilex_scoutConfig-version.cmake
+[8.791s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/agilex_scout/share/agilex_scout/package.xml

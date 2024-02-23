@@ -1,0 +1,1 @@
+Invoking command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/depthimage_to_laserscan -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan

@@ -1,0 +1,4 @@
+[ 12%] Built target gtest
+[ 25%] Built target gtest_main
+[ 37%] Built target laser_scan_filters
+[ 50%] Built target test_scan_filter_chain

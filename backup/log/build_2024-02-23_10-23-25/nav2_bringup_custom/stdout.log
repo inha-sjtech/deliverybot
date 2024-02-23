@@ -1,0 +1,4 @@
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Configuring incomplete, errors occurred!
+See also "/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/CMakeOutput.log".
