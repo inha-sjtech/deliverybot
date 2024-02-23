@@ -1,0 +1,2 @@
+Invoking command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan': /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/depthimage_to_laserscan -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan
+Invoked command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan' returned '1': /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/depthimage_to_laserscan -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan

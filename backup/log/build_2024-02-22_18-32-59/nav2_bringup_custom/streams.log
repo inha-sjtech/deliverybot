@@ -1,0 +1,26 @@
+[1.817s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom -- -j8 -l8
+[1.983s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom -- -j8 -l8
+[4.283s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --install /home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom
+[5.500s] -- Install configuration: ""
+[5.501s] -- Execute custom install script
+[5.505s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/bringup_launch.py
+[5.507s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/localization_launch.py
+[5.507s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/navigation_launch.py
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/rviz_launch.py
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/launch/slam_launch.py
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/ament_index/resource_index/package_run_dependencies/nav2_bringup_custom
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/ament_index/resource_index/parent_prefix_path/nav2_bringup_custom
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/ament_prefix_path.sh
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/ament_prefix_path.dsv
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/path.sh
+[5.508s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/environment/path.dsv
+[5.509s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.bash
+[5.509s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.sh
+[5.509s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.zsh
+[5.509s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/local_setup.dsv
+[5.510s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/package.dsv
+[5.510s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/ament_index/resource_index/packages/nav2_bringup_custom
+[5.510s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/cmake/nav2_bringup_customConfig.cmake
+[5.511s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/cmake/nav2_bringup_customConfig-version.cmake
+[5.512s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/nav2_bringup_custom/share/nav2_bringup_custom/package.xml
+[7.445s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --install /home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom

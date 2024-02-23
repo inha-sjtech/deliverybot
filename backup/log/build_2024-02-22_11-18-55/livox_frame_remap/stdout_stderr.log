@@ -1,0 +1,23 @@
+running develop
+running egg_info
+creating livox_frame_remap.egg-info
+writing livox_frame_remap.egg-info/PKG-INFO
+writing dependency_links to livox_frame_remap.egg-info/dependency_links.txt
+writing entry points to livox_frame_remap.egg-info/entry_points.txt
+writing requirements to livox_frame_remap.egg-info/requires.txt
+writing top-level names to livox_frame_remap.egg-info/top_level.txt
+writing manifest file 'livox_frame_remap.egg-info/SOURCES.txt'
+reading manifest file 'livox_frame_remap.egg-info/SOURCES.txt'
+writing manifest file 'livox_frame_remap.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/site.py
+Creating /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox-frame-remap.egg-link (link to .)
+Installing livox_frame_remap_node script to /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/livox_frame_remap
+
+Installed /home/nvidia/ros2_catkin_ws/build/livox_frame_remap
+running install_data
+creating /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/share/ament_index
+creating /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/share/ament_index/resource_index
+creating /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/share/ament_index/resource_index/packages
+copying resource/livox_frame_remap -> /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/share/ament_index/resource_index/packages
+copying package.xml -> /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/share/livox_frame_remap

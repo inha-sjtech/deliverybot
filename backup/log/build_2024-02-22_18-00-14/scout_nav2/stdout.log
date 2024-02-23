@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing scout_nav2.egg-info/PKG-INFO
+writing dependency_links to scout_nav2.egg-info/dependency_links.txt
+writing entry points to scout_nav2.egg-info/entry_points.txt
+writing requirements to scout_nav2.egg-info/requires.txt
+writing top-level names to scout_nav2.egg-info/top_level.txt
+reading manifest file 'scout_nav2.egg-info/SOURCES.txt'
+writing manifest file 'scout_nav2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/python3.8/site-packages/scout-nav2.egg-link (link to .)
+Installing example_navigate_to_pose script to /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/scout_nav2
+Installing park_robot script to /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/scout_nav2
+
+Installed /home/nvidia/ros2_catkin_ws/build/scout_nav2
+running install_data

@@ -1,0 +1,47 @@
+running develop
+running egg_info
+creating scout_nav2.egg-info
+writing scout_nav2.egg-info/PKG-INFO
+writing dependency_links to scout_nav2.egg-info/dependency_links.txt
+writing entry points to scout_nav2.egg-info/entry_points.txt
+writing requirements to scout_nav2.egg-info/requires.txt
+writing top-level names to scout_nav2.egg-info/top_level.txt
+writing manifest file 'scout_nav2.egg-info/SOURCES.txt'
+reading manifest file 'scout_nav2.egg-info/SOURCES.txt'
+writing manifest file 'scout_nav2.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/python3.8/site-packages/site.py
+Creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/python3.8/site-packages/scout-nav2.egg-link (link to .)
+Installing example_navigate_to_pose script to /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/scout_nav2
+Installing park_robot script to /home/nvidia/ros2_catkin_ws/install/scout_nav2/lib/scout_nav2
+
+Installed /home/nvidia/ros2_catkin_ws/build/scout_nav2
+running install_data
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/ament_index
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/ament_index/resource_index
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/ament_index/resource_index/packages
+copying resource/scout_nav2 -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/ament_index/resource_index/packages
+copying package.xml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/launch
+copying launch/nav2.launch.py -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/launch
+copying launch/parking.launch.py -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/launch
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/warehouse
+copying maps/warehouse/map_slam.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/warehouse
+copying maps/warehouse/map_slam.pgm -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/warehouse
+copying maps/warehouse/map_slam_cleaned.png -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/warehouse
+copying maps/warehouse/map_slam_cleaned.pgm -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/warehouse
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+copying maps/airlab/map_lidar3d_v2.pgm -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+copying maps/airlab/map_lidar2d.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+copying maps/airlab/map_lidar3d.pgm -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+copying maps/airlab/map_lidar2d.pgm -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+copying maps/airlab/map_lidar3d_v2.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+copying maps/airlab/map_lidar3d.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/maps/airlab
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/params
+copying params/nav2_params_lidar2d.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/params
+copying params/nav2_params_scout.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/params
+copying params/nav2_params_lidar3d.yaml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/params
+copying params/bt_nav2pose.xml -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/params
+creating /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/rviz
+copying rviz/nav2.rviz -> /home/nvidia/ros2_catkin_ws/install/scout_nav2/share/scout_nav2/rviz

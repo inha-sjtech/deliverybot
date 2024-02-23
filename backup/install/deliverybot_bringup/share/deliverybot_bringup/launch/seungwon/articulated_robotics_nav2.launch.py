@@ -1,0 +1,1 @@
+/home/nvidia/ros2_catkin_ws/src/deliverybot_bringup/launch/seungwon/articulated_robotics_nav2.launch.py

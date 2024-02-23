@@ -1,0 +1,88 @@
+[4.032s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/deliverybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/deliverybot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/deliverybot_description
+[5.576s] -- The C compiler identification is GNU 9.4.0
+[5.576s] -- The CXX compiler identification is GNU 9.4.0
+[5.576s] -- Check for working C compiler: /usr/bin/cc
+[5.577s] -- Check for working C compiler: /usr/bin/cc -- works
+[5.577s] -- Detecting C compiler ABI info
+[5.577s] -- Detecting C compiler ABI info - done
+[5.577s] -- Detecting C compile features
+[5.577s] -- Detecting C compile features - done
+[5.577s] -- Check for working CXX compiler: /usr/bin/c++
+[5.577s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[5.577s] -- Detecting CXX compiler ABI info
+[5.577s] -- Detecting CXX compiler ABI info - done
+[5.577s] -- Detecting CXX compile features
+[5.577s] -- Detecting CXX compile features - done
+[5.578s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[5.578s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[5.578s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.578s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[5.578s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[5.580s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.585s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.585s] -- Added test 'lint_cmake' to check CMake code style
+[5.586s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[5.586s] -- Added test 'xmllint' to check XML markup files
+[5.586s] -- Configuring done
+[5.586s] -- Generating done
+[5.586s] -- Build files have been written to: /home/nvidia/ros2_catkin_ws/build/deliverybot_description
+[5.595s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/deliverybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/deliverybot_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/deliverybot_description
+[5.596s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/deliverybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/deliverybot_description -- -j8 -l8
+[5.681s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/deliverybot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/deliverybot_description -- -j8 -l8
+[5.766s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/deliverybot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --install /home/nvidia/ros2_catkin_ws/build/deliverybot_description
+[5.935s] -- Install configuration: ""
+[5.935s] -- Execute custom install script
+[5.935s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/ball_tracker_params_robot.yaml
+[5.935s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/ball_tracker_params_sim.yaml
+[5.936s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/drive_bot.rviz
+[5.936s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/empty.yaml
+[5.936s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/gaz_ros2_ctl_use_sim.yaml
+[5.936s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/gazebo_params.yaml
+[5.936s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/joystick.yaml
+[5.942s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/main.rviz
+[5.944s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/map.rviz
+[5.957s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/mapper_params_online_async.yaml
+[5.974s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/my_controllers.yaml
+[5.995s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/nav2_params.yaml
+[6.015s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/twist_mux.yaml
+[6.032s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/config/view_bot.rviz
+[6.047s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/camera.xacro
+[6.064s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/common_properties.xacro
+[6.079s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/deliverybot.urdf.xacro
+[6.097s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/deliverybot_core.xacro
+[6.115s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/depth_camera.xacro
+[6.134s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/face.xacro
+[6.150s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/gazebo_control.xacro
+[6.168s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/inertial_macros.xacro
+[6.195s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/lidar.xacro
+[6.209s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/robot.urdf.xacro
+[6.232s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/robot_core.xacro
+[6.246s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/description/ros2_control.xacro
+[6.264s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/ball_tracker.launch.py
+[6.283s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/camera.launch.py
+[6.300s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/joystick.launch.py
+[6.319s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/launch_deliverybot.launch.py
+[6.339s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/launch_robot.launch.py
+[6.368s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/launch_sim.launch.py
+[6.377s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/localization_launch.py
+[6.396s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/navigation_launch.py
+[6.418s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/online_async_launch.py
+[6.438s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/rplidar.launch.py
+[6.455s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/launch/rsp.launch.py
+[6.473s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/worlds/empty.world
+[6.493s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/worlds/obstacles.world
+[6.509s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/ament_index/resource_index/package_run_dependencies/deliverybot_description
+[6.524s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/ament_index/resource_index/parent_prefix_path/deliverybot_description
+[6.542s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/environment/ament_prefix_path.sh
+[6.560s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/environment/ament_prefix_path.dsv
+[6.577s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/environment/path.sh
+[6.595s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/environment/path.dsv
+[6.613s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/local_setup.bash
+[6.629s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/local_setup.sh
+[6.650s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/local_setup.zsh
+[6.664s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/local_setup.dsv
+[6.682s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/package.dsv
+[6.701s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/ament_index/resource_index/packages/deliverybot_description
+[6.717s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/cmake/deliverybot_descriptionConfig.cmake
+[6.735s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/cmake/deliverybot_descriptionConfig-version.cmake
+[6.754s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/deliverybot_description/share/deliverybot_description/package.xml

@@ -1,0 +1,37 @@
+[5.163s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/livox_frame_remap': PYTHONPATH=/home/nvidia/ros2_catkin_ws/build/livox_frame_remap/prefix_override:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build
+[6.052s] running develop
+[6.052s] Removing /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox-frame-remap.egg-link (link to .)
+[9.894s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/livox_frame_remap' returned '0': PYTHONPATH=/home/nvidia/ros2_catkin_ws/build/livox_frame_remap/prefix_override:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build
+[9.901s] Invoking command in '/home/nvidia/ros2_catkin_ws/src/livox_frame_remap': PYTHONPATH=/home/nvidia/ros2_catkin_ws/build/livox_frame_remap/prefix_override:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/livox_frame_remap build --build-base /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build install --record /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/install.log --install-scripts $base/lib/livox_frame_remap --single-version-externally-managed
+[10.320s] running egg_info
+[10.323s] writing ../../build/livox_frame_remap/livox_frame_remap.egg-info/PKG-INFO
+[10.324s] writing dependency_links to ../../build/livox_frame_remap/livox_frame_remap.egg-info/dependency_links.txt
+[10.326s] writing entry points to ../../build/livox_frame_remap/livox_frame_remap.egg-info/entry_points.txt
+[10.326s] writing requirements to ../../build/livox_frame_remap/livox_frame_remap.egg-info/requires.txt
+[10.327s] writing top-level names to ../../build/livox_frame_remap/livox_frame_remap.egg-info/top_level.txt
+[10.388s] reading manifest file '../../build/livox_frame_remap/livox_frame_remap.egg-info/SOURCES.txt'
+[10.391s] writing manifest file '../../build/livox_frame_remap/livox_frame_remap.egg-info/SOURCES.txt'
+[10.391s] running build
+[10.391s] running build_py
+[10.392s] creating /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build
+[10.392s] creating /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib
+[10.392s] creating /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap
+[10.393s] copying livox_frame_remap/__init__.py -> /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap
+[10.393s] copying livox_frame_remap/livox_frame_remap_node.py -> /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap
+[10.393s] copying livox_frame_remap/livox_frame_remapping.py -> /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap
+[10.394s] running install
+[10.396s] running install_lib
+[10.400s] creating /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap
+[10.401s] copying /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap/__init__.py -> /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap
+[10.401s] copying /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap/livox_frame_remap_node.py -> /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap
+[10.402s] copying /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build/lib/livox_frame_remap/livox_frame_remapping.py -> /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap
+[10.404s] byte-compiling /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap/__init__.py to __init__.cpython-38.pyc
+[10.409s] byte-compiling /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap/livox_frame_remap_node.py to livox_frame_remap_node.cpython-38.pyc
+[10.409s] byte-compiling /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap/livox_frame_remapping.py to livox_frame_remapping.cpython-38.pyc
+[10.409s] running install_data
+[10.411s] running install_egg_info
+[10.415s] Copying ../../build/livox_frame_remap/livox_frame_remap.egg-info to /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages/livox_frame_remap-0.0.0-py3.8.egg-info
+[10.419s] running install_scripts
+[10.461s] Installing livox_frame_remap_node script to /home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/livox_frame_remap
+[10.462s] writing list of installed files to '/home/nvidia/ros2_catkin_ws/build/livox_frame_remap/install.log'
+[11.291s] Invoked command in '/home/nvidia/ros2_catkin_ws/src/livox_frame_remap' returned '0': PYTHONPATH=/home/nvidia/ros2_catkin_ws/build/livox_frame_remap/prefix_override:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/livox_frame_remap build --build-base /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/build install --record /home/nvidia/ros2_catkin_ws/build/livox_frame_remap/install.log --install-scripts $base/lib/livox_frame_remap --single-version-externally-managed

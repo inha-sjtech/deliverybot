@@ -1,0 +1,1 @@
+/home/nvidia/ros2_catkin_ws/build/deliverybot_description/ament_cmake_environment_hooks/local_setup.bash

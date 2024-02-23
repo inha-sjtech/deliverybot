@@ -1,0 +1,43 @@
+[2.782s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan -- -j8 -l8
+[3.904s] [ 16%] Built target gtest
+[3.905s] [ 33%] Built target gtest_main
+[3.906s] [ 50%] Built target DepthImageToLaserScan
+[3.906s] [ 66%] Built target DepthImageToLaserScanROS
+[3.910s] [ 83%] Built target depthimage_to_laserscan-test
+[3.911s] [100%] Built target depthimage_to_laserscan_node
+[3.933s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan -- -j8 -l8
+[4.091s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --install /home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan
+[4.141s] -- Install configuration: ""
+[4.144s] -- Execute custom install script
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/include/depthimage_to_laserscan/DepthImageToLaserScan.hpp
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/include/depthimage_to_laserscan/DepthImageToLaserScanROS.hpp
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/include/depthimage_to_laserscan/depth_traits.hpp
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan//launch/depthimage_to_laserscan-launch.py
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan//launch/depthimage_to_laserscan_composed-launch.py
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan//cfg/param.yaml
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/lib/libDepthImageToLaserScan.so
+[4.144s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/lib/libDepthImageToLaserScanROS.so
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/lib/depthimage_to_laserscan/depthimage_to_laserscan_node
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/include/depthimage_to_laserscan/DepthImageToLaserScan_export.h
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/include/depthimage_to_laserscan/DepthImageToLaserScanROS_export.h
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/environment/library_path.sh
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/environment/library_path.dsv
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/ament_index/resource_index/package_run_dependencies/depthimage_to_laserscan
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/ament_index/resource_index/parent_prefix_path/depthimage_to_laserscan
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/environment/ament_prefix_path.sh
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/environment/ament_prefix_path.dsv
+[4.145s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/environment/path.sh
+[4.146s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/environment/path.dsv
+[4.146s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/local_setup.bash
+[4.146s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/local_setup.sh
+[4.146s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/local_setup.zsh
+[4.146s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/local_setup.dsv
+[4.146s] -- Symlinking: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/package.dsv
+[4.161s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/ament_index/resource_index/packages/depthimage_to_laserscan
+[4.162s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/ament_index/resource_index/rclcpp_components/depthimage_to_laserscan
+[4.162s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.162s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/cmake/ament_cmake_export_libraries-extras.cmake
+[4.163s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/cmake/depthimage_to_laserscanConfig.cmake
+[4.164s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/cmake/depthimage_to_laserscanConfig-version.cmake
+[4.168s] -- Up-to-date symlink: /home/nvidia/ros2_catkin_ws/install/depthimage_to_laserscan/share/depthimage_to_laserscan/package.xml
+[5.699s] Invoked command in '/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap:/opt/ros/foxy /usr/bin/cmake --install /home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan

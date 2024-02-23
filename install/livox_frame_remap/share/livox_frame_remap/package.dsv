@@ -1,0 +1,9 @@
+source;share/livox_frame_remap/hook/pythonpath.ps1
+source;share/livox_frame_remap/hook/pythonpath.dsv
+source;share/livox_frame_remap/hook/pythonpath.sh
+source;share/livox_frame_remap/hook/ament_prefix_path.ps1
+source;share/livox_frame_remap/hook/ament_prefix_path.dsv
+source;share/livox_frame_remap/hook/ament_prefix_path.sh
+source;../../build/livox_frame_remap/share/livox_frame_remap/hook/pythonpath_develop.ps1
+source;../../build/livox_frame_remap/share/livox_frame_remap/hook/pythonpath_develop.dsv
+source;../../build/livox_frame_remap/share/livox_frame_remap/hook/pythonpath_develop.sh
