@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/src/deliverybot_description/launch/navigation_launch.py

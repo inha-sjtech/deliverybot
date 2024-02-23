@@ -1,1 +1,0 @@
-[3.238s] Invoking command in '/home/nvidia/ros2_catkin_ws/build/deliverybot_bringup': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/deliverybot_bringup -- -j8 -l8

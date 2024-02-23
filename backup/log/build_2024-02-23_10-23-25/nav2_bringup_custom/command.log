@@ -1,1 +1,0 @@
-Invoking command in '/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/nvidia/ros2_catkin_ws/install/scout_nav2:/home/nvidia/ros2_catkin_ws/install/livox_frame_remap /usr/bin/cmake --build /home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom -- -j8 -l8

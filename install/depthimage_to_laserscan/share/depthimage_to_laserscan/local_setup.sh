@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/build/depthimage_to_laserscan/ament_cmake_environment_hooks/local_setup.sh

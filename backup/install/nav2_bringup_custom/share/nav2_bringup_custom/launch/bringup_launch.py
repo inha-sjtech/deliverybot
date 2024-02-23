@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/src/scout_nav2/nav2_bringup/launch/bringup_launch.py

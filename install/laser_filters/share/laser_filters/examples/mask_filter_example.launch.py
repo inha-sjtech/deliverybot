@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/src/laser_filters/examples/mask_filter_example.launch.py

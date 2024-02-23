@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/src/depthimage_to_laserscan/launch/depthimage_to_laserscan_composed-launch.py

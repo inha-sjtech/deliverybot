@@ -1,4 +1,0 @@
-source;share/deliverybot_bringup/local_setup.bash
-source;share/deliverybot_bringup/local_setup.dsv
-source;share/deliverybot_bringup/local_setup.sh
-source;share/deliverybot_bringup/local_setup.zsh

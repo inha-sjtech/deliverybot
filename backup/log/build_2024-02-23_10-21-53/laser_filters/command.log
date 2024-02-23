@@ -1,2 +1,0 @@
-Invoking command in '/home/nvidia/ros2_catkin_ws/build/laser_filters': /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/laser_filters -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/laser_filters
-Invoked command in '/home/nvidia/ros2_catkin_ws/build/laser_filters' returned '1': /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/laser_filters -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/laser_filters

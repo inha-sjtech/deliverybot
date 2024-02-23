@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/build/agilex_scout/ament_cmake_environment_hooks/local_setup.sh

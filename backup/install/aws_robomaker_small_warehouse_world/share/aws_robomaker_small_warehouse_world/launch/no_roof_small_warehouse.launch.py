@@ -1,1 +1,0 @@
-/home/nvidia/ros2_catkin_ws/src/scout_nav2/aws-robomaker-small-warehouse-world/launch/no_roof_small_warehouse.launch.py

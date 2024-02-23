@@ -1,9 +1,0 @@
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/install/strip.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/install/local.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/install.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/list_install_components.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/rebuild_cache.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/edit_cache.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/test.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/nav2_bringup_custom_uninstall.dir
-/home/nvidia/ros2_catkin_ws/build/nav2_bringup_custom/CMakeFiles/uninstall.dir

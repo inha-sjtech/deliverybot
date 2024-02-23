@@ -1,3 +1,0 @@
-[console_scripts]
-livox_frame_remap_node = livox_frame_remap.livox_frame_remap_node:main
-

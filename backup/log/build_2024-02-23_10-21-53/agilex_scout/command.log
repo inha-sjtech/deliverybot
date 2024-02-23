@@ -1,2 +1,0 @@
-Invoking command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout': /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/scout_nav2/agilex_scout -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/agilex_scout
-Invoked command in '/home/nvidia/ros2_catkin_ws/build/agilex_scout' returned '1': /usr/bin/cmake /home/nvidia/ros2_catkin_ws/src/scout_nav2/agilex_scout -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/nvidia/ros2_catkin_ws/install/agilex_scout
